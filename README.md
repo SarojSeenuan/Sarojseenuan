@@ -1,5 +1,3 @@
-# Saroj Senuan - GitHub Profile README
-
 <!-- Animated Header with Gradient Wave -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,14,16,19&height=280&section=header&text=👋%20こんにちは！%20I'm%20Saroj&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlign=50&desc=Web%20Developer%20%7C%20WEB開発者&descAlign=50&descAlignY=65" alt="Animated Header" />
@@ -25,20 +23,15 @@
 personal_info:
   name: "Saroj Senuan (サロード・シヌアン)"
   origin: "Thailand 🇹🇭"
-  current_location: "Kyoto, Japan 🏯"
+  current_location: "Tokyo, Japan 🏯"
   education: "Kyoto Computer Gakuin (京都コンピュータ学院)"
-  graduation: "2025年卒業予定"
+  graduation: "2025年卒業"
   
 professional_focus:
   role: "Full-Stack Web Developer"
-  specialization: ["Frontend Development", "Backend API Design", "Database Architecture"]
-  currently_learning: ["Advanced React Patterns", "Cloud Architecture", "AI Integration"]
+  specialization: ["Frontend Development", "Backend API Design"]
+  currently_learning: ["Advanced React Patterns", "Cloud Architecture"]
   
-technical_interests:
-  primary: ["Web Development", "UI/UX Design", "Performance Optimization"]
-  emerging: ["Artificial Intelligence", "Machine Learning", "Web3 Technologies"]
-  creative: ["Japanese Subculture Tech", "Entertainment Applications"]
-
 career_goals:
   short_term: "Secure Web Engineer position in Japan 🇯🇵"
   long_term: "Lead innovative tech projects bridging cultures"
@@ -131,33 +124,24 @@ fun_facts:
 
 ## 🎯 Current Goals | 現在の目標
 
-<table align="center">
-<tr>
-<td align="center" width="33%">
+<table align="center"> <tr> <td align="center" width="33%">
+🏢 Career | キャリア
+🇯🇵 日本でWebエンジニアとして活躍する
+🚀 技術とアイデアで価値あるプロジェクトに貢献
+🌱 成長意欲のあるチームで経験を積む
 
-### 🏢 **Career | キャリア**
-- 🇯🇵 Land a Web Engineer role in Japan
-- 🚀 Contribute to innovative projects
-- 🌟 Mentor junior developers
+</td> <td align="center" width="33%">
+🛠️ Technical | 技術
+⚛️ Reactの高度なパターンやパフォーマンス最適化を習得
+☁️ AWSなどのクラウド設計・インフラ構築スキルの強化
 
-</td>
-<td align="center" width="33%">
+</td> <td align="center" width="33%">
+🌱 Personal | 個人
+📚 日々の学習習慣を継続し、新技術にも柔軟に対応
+🤝 多様な価値観の人たちと協働・成長できる環境に身を置く
+🎨 ファッションや表現力を活かして、UI/UXにも個性を反映
 
-### 🛠️ **Technical | 技術**
-- ⚡ Master Advanced React patterns
-- ☁️ Deep dive into Cloud Architecture
-
-</td>
-<td align="center" width="33%">
-
-### 🌱 **Personal | 個人**
-- 📚 Continuous learning mindset
-- 🤝 Build meaningful connections
-- 🎨 Blend creativity with technology
-
-</td>
-</tr>
-</table>
+</td> </tr> </table>
 
 ---
 
