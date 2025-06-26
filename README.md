@@ -165,12 +165,30 @@ fun_facts:
 
 <p align="center">
   <a href="https://github.com/Sarojseenuan/ModeCraftAPP">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sarojseenuan&repo=project-1&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Project 1" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sarojseenuan&repo=ModeCraftAPP&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="ModeCraft APP" />
   </a>
   <a href="https://github.com/Sarojseenuan/saroj-Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sarojseenuan&repo=project-2&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Project 2" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sarojseenuan&repo=saroj-Portfolio&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Portfolio" />
   </a>
 </p>
+<!-- Alternative layout with descriptions -->
+<details>
+<summary>📋 Project Details | プロジェクト詳細</summary>
+🎨 ModeCraft APP
+
+Description: Fashion and style application
+Tech Stack: JavaScript, React, Node.js
+Status: In Development
+🔗 View Repository
+
+💼 Portfolio Website
+
+Description: Personal portfolio showcasing my work
+Tech Stack: HTML, CSS, JavaScript
+Status: Live
+🔗 View Repository
+
+</details>
 
 ---
 
