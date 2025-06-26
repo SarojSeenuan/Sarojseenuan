@@ -7,7 +7,7 @@
 
 <!-- Dynamic Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=6A5ACD&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🚀+Building+the+future+with+code;💫+JavaScript+%7C+React+%7C+Node.js;🌸+愛と技術で未来を変える;🇹🇭+From+Thailand+to+Japan+🇯🇵" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=6A5ACD&center=true&vCenter=true&multiline=true&width=600&height=100&lines=%F0%9F%9A%80+Building+the+future+with+code;%F0%9F%92%AB+JavaScript+%7C+React+%7C+Node.js;%F0%9F%8C%B8+%E6%8A%80%E8%A1%93%E3%81%A7%E6%9C%AA%E6%9D%A5%E3%82%92%E5%A4%89%E3%81%88%E3%82%8B;%F0%9F%87%B9%F0%9F%87%AD+From+Thailand+to+Japan+%F0%9F%87%AF%F0%9F%87%B5" alt="Typing Animation" />
 </p>
 
 <!-- Visitor Counter & Profile Views -->
@@ -117,23 +117,10 @@ fun_facts:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarojseenuan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sarojseenuan&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=79C0FF&fire=FFA657&currStreakLabel=C9D1D9" alt="GitHub Streak" />
-</p>
-
-<!-- GitHub Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sarojseenuan&bg_color=0d1117&color=58a6ff&line=79c0ff&point=c9d1d9&area=true&hide_border=true" alt="Activity Graph" />
-</p>
-
 <!-- GitHub Profile Summary Cards -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sarojseenuan&theme=tokyonight" alt="Profile Summary" />
 </p>
-
----
-
-## 🐍 GitHub Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Sarojseenuan/Sarojseenuan/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Snake Dark" />
