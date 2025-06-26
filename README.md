@@ -2,7 +2,7 @@
 
 <!-- Animated Header with Gradient Wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,14,16,19&height=280&section=header&text=👋%20こんにちは！%20I'm%20Saroj&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlign=50&desc=Full-Stack%20Developer%20%7C%20フルスタック開発者&descAlign=50&descAlignY=65" alt="Animated Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,14,16,19&height=280&section=header&text=👋%20こんにちは！%20I'm%20Saroj&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlign=50&desc=Web%20Developer%20%7C%20WEB開発者&descAlign=50&descAlignY=65" alt="Animated Header" />
 </p>
 
 <!-- Dynamic Typing Animation -->
@@ -12,8 +12,8 @@
 
 <!-- Visitor Counter & Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saroj-seenuan&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/saroj-seenuan?label=Followers&style=for-the-badge&color=ff69b4" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=Sarojseenuan&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Sarojseenuan?label=Followers&style=for-the-badge&color=ff69b4" alt="GitHub Followers" />
   <img src="https://img.shields.io/badge/Status-Available%20for%20Work-brightgreen?style=for-the-badge" alt="Status" />
 </p>
 
@@ -113,22 +113,22 @@ fun_facts:
 ## 📊 GitHub Analytics | GitHubスタッツ
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saroj-seenuan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saroj-seenuan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sarojseenuan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarojseenuan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=saroj-seenuan&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=79C0FF&fire=FFA657&currStreakLabel=C9D1D9" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sarojseenuan&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=79C0FF&fire=FFA657&currStreakLabel=C9D1D9" alt="GitHub Streak" />
 </p>
 
 <!-- GitHub Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saroj-seenuan&bg_color=0d1117&color=58a6ff&line=79c0ff&point=c9d1d9&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sarojseenuan&bg_color=0d1117&color=58a6ff&line=79c0ff&point=c9d1d9&area=true&hide_border=true" alt="Activity Graph" />
 </p>
 
 <!-- GitHub Profile Summary Cards -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saroj-seenuan&theme=tokyonight" alt="Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sarojseenuan&theme=tokyonight" alt="Profile Summary" />
 </p>
 
 ---
@@ -136,8 +136,8 @@ fun_facts:
 ## 🐍 GitHub Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/saroj-seenuan/saroj-seenuan/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Snake Dark" />
-  <img src="https://raw.githubusercontent.com/saroj-seenuan/saroj-seenuan/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Snake Light" />
+  <img src="https://raw.githubusercontent.com/Sarojseenuan/Sarojseenuan/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Snake Dark" />
+  <img src="https://raw.githubusercontent.com/Sarojseenuan/Sarojseenuan/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Snake Light" />
 </p>
 
 ---
@@ -177,11 +177,11 @@ fun_facts:
 ## 🌟 Featured Projects | 注目プロジェクト
 
 <p align="center">
-  <a href="https://github.com/SarojSeenuan/ModeCraftAPP">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saroj-seenuan&repo=project-1&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Project 1" />
+  <a href="https://github.com/Sarojseenuan/ModeCraftAPP">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sarojseenuan&repo=project-1&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Project 1" />
   </a>
-  <a href="https://github.com/SarojSeenuan/saroj-Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saroj-seenuan&repo=project-2&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Project 2" />
+  <a href="https://github.com/Sarojseenuan/saroj-Portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sarojseenuan&repo=project-2&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Project 2" />
   </a>
 </p>
 
@@ -190,46 +190,13 @@ fun_facts:
 ## 🤝 Let's Connect | つながりましょう！
 
 <p align="center">
-  <a href="mailto:sarojseenuan@gmail.com">
+  <a href="mailto:Sarojseenuan@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://modecraft-world.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
   </a>
 </p>
-
----
-
-## 🎮 Fun Zone | 楽しいゾーン
-
-<details>
-<summary>🎲 Random Dev Joke</summary>
-<br>
-
-```javascript
-function getRandomJoke() {
-  const jokes = [
-    "Why do programmers prefer dark mode? Because light attracts bugs! 🐛",
-    "How many programmers does it take to change a light bulb? None, that's a hardware problem! 💡",
-    "Why don't programmers like nature? It has too many bugs! 🌳🐛"
-  ];
-  return jokes[Math.floor(Math.random() * jokes.length)];
-}
-
-console.log(getRandomJoke()); // 😄
-```
-
-</details>
-
-<details>
-<summary>🌈 Inspirational Quote</summary>
-<br>
-
-> **"Code is like humor. When you have to explain it, it's bad."** – Cory House
-> 
-> **「コードはユーモアのようなものです。説明しなければならないとき、それは悪いコードです。」**
-
-</details>
 
 ---
 
@@ -243,8 +210,3 @@ console.log(getRandomJoke()); // 😄
   <i>「一行のコードで文化の架け橋を築く」</i>
 </p>
 
----
-
-<p align="center">
-  <sub>🔄 This README is updated automatically • Last updated: $(date)</sub>
-</p>
