@@ -124,24 +124,7 @@ fun_facts:
 
 ## 🎯 Current Goals | 現在の目標
 
-<table align="center"> <tr> <td align="center" width="33%">
-🏢 Career | キャリア
-🇯🇵 日本でWebエンジニアとして活躍する
-🚀 技術とアイデアで価値あるプロジェクトに貢献
-🌱 成長意欲のあるチームで経験を積む
-
-</td> <td align="center" width="33%">
-🛠️ Technical | 技術
-⚛️ Reactの高度なパターンやパフォーマンス最適化を習得
-☁️ AWSなどのクラウド設計・インフラ構築スキルの強化
-
-</td> <td align="center" width="33%">
-🌱 Personal | 個人
-📚 日々の学習習慣を継続し、新技術にも柔軟に対応
-🤝 多様な価値観の人たちと協働・成長できる環境に身を置く
-🎨 ファッションや表現力を活かして、UI/UXにも個性を反映
-
-</td> </tr> </table>
+<table align="center"> <tr> <th>🏢 Career<br/><small>キャリア</small></th> <th>🛠️ Technical<br/><small>技術</small></th> <th>🌱 Personal<br/><small>個人</small></th> </tr> <tr> <td align="center"> 🇯🇵 Land a Web Engineer role in Japan <br/><small>日本でWebエンジニアとして活躍する</small><br/><br/> 🚀 Join creative & innovative projects <br/><small>エンタメやサブカルに関わる開発に挑戦</small><br/><br/> 🌟 Grow in a supportive, learning-focused team <br/><small>学びを重視するチームでキャリアを積む</small> </td> <td align="center"> ⚛️ Master modern React & frontend patterns <br/><small>Reactの高度な設計とパターンを習得</small><br/><br/> ☁️ Dive deep into scalable cloud architecture <br/><small>AWSを中心としたクラウド設計力の強化</small><br/><br/> 🤖 Explore AI/ML integration in real-world apps <br/><small>AI・自動化を使った開発にも挑戦</small> </td> <td align="center"> 📚 Keep a habit of daily learning & curiosity <br/><small>毎日の学びと好奇心を大切に</small><br/><br/> 🤝 Build genuine, cross-cultural connections <br/><small>国際的な仲間と協力・成長できる関係を築く</small><br/><br/> 🎨 Blend fashion, design & tech for better UX <br/><small>ファッション的感性をUI/UXへ活かす</small> </td> </tr> </table>
 
 ---
 
