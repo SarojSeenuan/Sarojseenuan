@@ -1,6 +1,6 @@
 <!-- Animated Header with Gradient Wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,14,16,19&height=280&section=header&text=👋%20こんにちは！%20I'm%20Saroj&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlign=50&desc=Web%20Developer%20%7C%20WEB開発者&descAlign=50&descAlignY=65" alt="Animated Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,14,16,19&height=280&section=header&text=👋%20こんにちは！%20I'm%20Ken&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlign=50&desc=Web%20Developer%20%7C%20WEB開発者&descAlign=50&descAlignY=65" alt="Animated Header" />
 </p>
 
 <!-- Dynamic Typing Animation -->
